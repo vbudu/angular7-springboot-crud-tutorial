@@ -7,7 +7,10 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "engine": {
+      "node": "10.16.0"
+    }
   },
   "private": true,
   "dependencies": {
